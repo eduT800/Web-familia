@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["name","console","log"],"mappings":";AAAA,IAAMA,EAAO,QACbC,QAAQC,IAAaF,SAAAA,OAAAA","file":"proyect_pec_1.3fb2c6b0.js","sourceRoot":"..","sourcesContent":["const name = 'world' \r\nconsole.log(`Hello ${name}`)\r\n"]}

@@ -1,0 +1,21 @@
+*{margin:0;
+  padding:0;}
+h1{font-size: 100px;
+text-align: center;
+color: #C81818;
+text-shadow: 2px 2px 0px #D0ECE7,3px 3px 0px #27AE60;
+padding-top: 40px;
+padding-bottom: 40px;}
+main{max-width: 850px;
+margin: auto;
+text-align: center;}
+main img{width: 550px;}
+footer{text-align: center;}
+p{font-size: 38px;
+color: #424949;
+padding-top: 30px;
+padding-bottom: 30px;}
+.fotoella{width:250px;}
+footer p{font-size: 18px;
+border-top: 1px solid grey;}
+html{background-color: #719FAA;}
